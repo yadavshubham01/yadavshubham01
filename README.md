@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **bootstrap and react**
 
-- 👯 I’m looking to collaborate on **tic-tik-toc game**
+- 👯 I’m looking to collaborate on **tic-tac-toe game**
 
 - 💬 Ask me about **Javascript and c++**
 
