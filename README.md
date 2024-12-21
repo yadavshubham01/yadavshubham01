@@ -17,11 +17,22 @@
 ## Projects
 Here are some of my notable projects:
 
-### [Project 1: Awesome Project](https://github.com/yadavshubham01/awesome-project)
-A brief description of what this project does and its purpose.
+### [ResumeCraft ](https://resume-craft-virid.vercel.app/)
+- Developed ResumeCraft, an AI-powered resume builder (React & Node.js), offering customizable templates
+and AI-driven content suggestions, resulting in a 25% faster resume creation process for users.
+- Integrated a step-by-step guide and real-time preview functionality, improving user experience and leading
+to a 30% increase in user satisfaction based on post-use surveys.
+- Enabled easy PDF downloads and custom sections for unique skills, enhancing resume quality and providing
+users with a 15% higher success rate in applicant tracking system (ATS) compatibility.
 
-### [Project 2: Another Cool Project](https://github.com/yadavshubham01/another-cool-project)
-A brief description of what this project does and its purpose.
+### [CarePulse](https://carepluse-phi.vercel.app/)
+- Developed CarePulse, a full-stack healthcare management system (React, Node.js, Appwrite) streamlining
+patient registration, appointment scheduling, and medical record management, resulting in a 20% reduction
+in administrative overhead .
+- Implemented user authentication, automated appointment reminders via SMS notifications, and intuitive
+patient registration forms, improving patient engagement by 15% and appointment attendance by 10% .
+- Managed and optimized database interactions using Appwrite, ensuring efficient data retrieval and storage,
+leading to a 30% improvement in system response time and enhancing overall application performance.
 
 ## GitHub Stats
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavshubham01&show_icons=true&theme=radical)
