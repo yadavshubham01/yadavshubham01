@@ -1,8 +1,7 @@
 
 # Hi there, I'm Shubham Yadav! 👋
 
-![](https://raw.githubusercontent.com/yadavshubham01/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com//yadavshubham01/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 ## Connect with Me
 <p align="left">
